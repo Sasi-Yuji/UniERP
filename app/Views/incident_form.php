@@ -25,7 +25,7 @@
                     <option value="IT">IT Services</option>
                     <option value="Maintenance">Maintenance</option>
                     <option value="Library">Library</option>
-                    <option value="Admissions">Admisions</option>
+                    <option value="Admissions">Admissions</option>
                     <option value="Security">Security</option>
                 </select>
                 <div class="validation-status-icon"></div>
